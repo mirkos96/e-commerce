@@ -1,0 +1,8 @@
+*.txt
+*.imp
+*.ipr
+*.iws
+*.iml
+.ideaDataSources/
+target/
+out/
